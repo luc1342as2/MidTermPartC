@@ -1,4 +1,6 @@
 git add //This program is working just fine.
+git fetch <repository>
+git merge <repository>
 
 /*
  * To change this license header, choose License Headers in Project Properties.
