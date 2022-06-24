@@ -1,5 +1,5 @@
 
-git add .tHIS PROGRAM WORKS JUST FINE.
+git add //THIS PROGRAM WORKS JUST FINE.
 
 git commit -m "my changes"
 
